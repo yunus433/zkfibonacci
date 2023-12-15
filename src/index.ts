@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { Fibonacci } from './Fibonacci.js';
 
-export { Add };
+export { Fibonacci };
